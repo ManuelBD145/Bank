@@ -119,9 +119,8 @@ El contrato está diseñado para ser un ejemplo educativo y contiene varias vuln
 
 ### Posibles Vulnerabilidades
 
-* Desbordamiento de enteros: Usar una versión anterior a Solidity 0.8.0 puede permitir desbordamientos de enteros.
 * Acceso no autorizado: Asegurarse de que las funciones críticas están adecuadamente protegidas.
-* Reentrancy Attack: Verificar que las funciones de retiro son seguras contra ataques de reentrada.
+
 ## Conclusión
 Este proyecto proporciona una introducción práctica a la seguridad en contratos inteligentes con Solidity. A través del análisis del contrato y la ejecución de tests, los desarrolladores pueden comprender mejor cómo construir y asegurar contratos inteligentes en la blockchain.
 
